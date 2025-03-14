@@ -1,2 +1,1 @@
-
-jjkobvwvhjwvajabodqhbdegqdgjdvuqwd
+Console.WriteLine("Hello World!");
